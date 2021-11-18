@@ -1,0 +1,16 @@
+calificacion,jornada,genero,estado.civil,preferencia.politica
+1,matutina,masculino,otro,izquierda
+1,vespertina,masculino,otro,derecha
+3,vespertina,femenino,otro,derecha
+2,vespertina,masculino,soltero,izquierda
+1,vespertina,femenino,soltero,izquierda
+2,matutina,femenino,soltero,derecha
+2,vespertina,femenino,otro,izquierda
+1,matutina,femenino,soltero,izquierda
+1,vespertina,femenino,otro,derecha
+1,vespertina,masculino,soltero,derecha
+1,vespertina,masculino,otro,izquierda
+2,vespertina,femenino,otro,derecha
+1,vespertina,femenino,otro,izquierda
+2,matutina,masculino,otro,izquierda
+3,vespertina,masculino,soltero,derecha
